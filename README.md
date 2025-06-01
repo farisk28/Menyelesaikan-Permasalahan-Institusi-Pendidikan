@@ -127,6 +127,7 @@ Berdasarkan hasil di atas, berikut adalah beberapa langkah yang dapat diambil ol
 2. `awan_rmn-dashboard2.jpg` - Gambar dashboard
 3. `notebook_Menyelesaikan_Permasalahan_Institusi_Pendidikan.ipynb` - Notebook pengolahan & analisis data
 4. `model.joblib` - Model machine learning
-5. `prediction.py` - Penerapan model machine learning untuk dapat diterapkan dengan streamlit
-6. `metabase.db.mv.db` - File database SQLite
-7. `requirements.txt` - Library dependencies
+5. `data_cleaned.csv` - Data yang sudah di cleaning
+6. `prediction.py` - Penerapan model machine learning untuk dapat diterapkan dengan streamlit
+7. `metabase.db.mv.db` - File database SQLite
+8. `requirements.txt` - Library dependencies
