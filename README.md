@@ -120,3 +120,13 @@ Berdasarkan hasil di atas, berikut adalah beberapa langkah yang dapat diambil ol
 - Fleksibilitas Jadwal Kuliah: Menawarakan berbagai macam pilihan jadwal kuliah untuk mahasiswa dengan keterbatasan waktu (misalnya, mahasiswa sambil bekerja).
 
 ---
+
+## 📁 Struktur Proyek
+
+1. `awan_rmn-dashboard1.jpg` - Gambar dashboard
+2. `awan_rmn-dashboard2.jpg` - Gambar dashboard
+3. `notebook_Menyelesaikan_Permasalahan_Institusi_Pendidikan.ipynb` - Notebook pengolahan & analisis data
+4. `model.joblib` - Model machine learning
+5. `prediction.py` - Penerapan model machine learning untuk dapat diterapkan dengan streamlit
+6. `metabase.db.mv.db` - File database SQLite
+7. `requirements.txt` - Library dependencies
