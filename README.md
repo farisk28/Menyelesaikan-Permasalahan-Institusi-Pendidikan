@@ -58,8 +58,8 @@ Proyek ini mencakup:
     
 ## 🔐 Informasi Login (Metabase Lokal)
 
-- Email: `farisfurqon2881@gmail.com`
-- Password: `Awan_mfk7012`
+- Email: `***************@gmail.com`
+- Password: `************`
 ---
 
 ## 📊 E. Business Dashboard
